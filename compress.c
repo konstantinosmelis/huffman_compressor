@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
-#include "common.h"
+#include "shared.h"
 
 /**
  * Build a Huffman tree given a file
